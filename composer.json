@@ -1,0 +1,13 @@
+{
+	"name": "silviokennecke/vr-csv2camt",
+	"description": "Small converter, for converting Volksbank CSV exports to CAMT-Like format. This tool only includes the minimum fields required for my particular use-case.",
+	"license": "Apache-2.0",
+	"authors": [
+		{
+			"name": "Silvio Kennecke"
+		}
+	],
+	"require": {
+		"php": "^8.1"
+	}
+}
